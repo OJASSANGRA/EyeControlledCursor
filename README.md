@@ -1,1 +1,2 @@
 # EyeControlledCursor
+At present situation paralyzed peoples need a guidance to do any work. One person should be they’re with that person to taken care of him. By using the eye tracking mechanism, we can fix the centroid on the eye based on the centroid we need to track that paralyzed person’s eye this eye track mechanism involves many applications like home automation by using python GUI robotic Control and virtual keyboard application
